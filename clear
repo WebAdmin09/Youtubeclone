@@ -1,0 +1,18 @@
+[33mcommit 35b54fca5ea4b3ec3dcf606169bf22d53d87a0ee[m[33m ([m[1;36mHEAD -> [m[1;32mmy-feature-branch[m[33m)[m
+Merge: db9cffa aa9bf6b
+Author: WebAdmin09 <husanorifjonov9@gmail.com>
+Date:   Tue Sep 19 10:51:43 2023 +0500
+
+    Merge branch 'main' of https://github.com/WebAdmin09/LESSON__8 into my-feature-branch
+
+[33mcommit db9cffa81aa069bf2465d62383d5052b0245db6d[m[33m ([m[1;31morigin/my-feature-branch[m[33m, [m[1;32mmain[m[33m)[m
+Author: WebAdmin09 <husanorifjonov9@gmail.com>
+Date:   Tue Sep 19 10:41:30 2023 +0500
+
+    dwsvs
+
+[33mcommit aa9bf6bf6874573cfbb013fe845293b4282a2db3[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: WebAdmin09 <husanorifjonov9@gmail.com>
+Date:   Tue Sep 19 10:36:45 2023 +0500
+
+    first commit
